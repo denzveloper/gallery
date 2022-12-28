@@ -9,5 +9,5 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Free to Use for Non-Commercial Only, If You Use this for Commercial call me!",
-  "usage-stats": false
+  "usage-stats": true
 }
