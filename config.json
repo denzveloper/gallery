@@ -3,7 +3,7 @@
   "output": "./build_output",
   "title": "DzENFoto",
   "sort-albums-by": "start-date",
-  "sort-media-by": "title",
+  "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
