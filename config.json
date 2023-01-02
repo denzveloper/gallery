@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "DzENFoto",
+  "title": "DzENGallery | JournalD",
   "sort-albums-by": "start-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
