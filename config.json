@@ -6,6 +6,7 @@
   "sort-media-by": "filename",
   "photos-download": "copy",
   "photo-preview": "resize",
+  "photo-quality": 70,
   "embed-exif": true,
   "cleanup": true,
   "theme": "cards",
