@@ -4,7 +4,7 @@
   "title": "DzENGallery | JournalD",
   "sort-albums-by": "start-date",
   "sort-media-by": "filename",
-  "photo-download": "copy",
+  "photo-download": "symlink",
   "large-size": 720,
   "photo-preview": "resize",
   "photo-quality": 65,
